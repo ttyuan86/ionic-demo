@@ -1,0 +1,8 @@
+{
+  "name": "ionicDemo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "6d0d68fc"
+}
